@@ -42,7 +42,7 @@ Follow these steps to get the project up and running on your local machine.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/buyer-lead-intake.git
+git clone https://github.com/Mridul-Tilwaliya/buyer-lead-intake.git
 cd buyer-lead-intake
 ```
 
